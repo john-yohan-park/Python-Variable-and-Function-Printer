@@ -14,7 +14,7 @@ Well you've come to the right place :)
 
 ### Usable Functions
 `print_var(some_variable)`
-* Prints variable's name and valu
+* Prints variable's name and value
 
 `print_time(func, param 1, param2, ...)`
 * Prints function's output and runtime (in microsec)
