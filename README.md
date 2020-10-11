@@ -17,4 +17,4 @@ You've come to the right place :)
 * Prints variable's name and value
 
 `print_time(func, param 1, param2, ...)`
-* Prints function's output and runtime (in microsec)
+* Prints function's output and runtime
