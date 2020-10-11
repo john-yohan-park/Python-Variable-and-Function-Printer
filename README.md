@@ -18,5 +18,3 @@ Well you've come to the right place :)
 
 `print_time(func, param 1, param2, ...)`
 * Prints function's output and runtime (in microsec)
-
-No need to download third-party packages :)
