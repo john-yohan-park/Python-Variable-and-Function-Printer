@@ -2,7 +2,7 @@
 
 Ever wanted to...
 1. Print a python variable along with its variable name?
-2. Measure the runtime performance of your function implementation? 
+2. Measure the runtime performance of your function? 
 
 Well you've come to the right place :)
 
