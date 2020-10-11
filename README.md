@@ -1,4 +1,4 @@
-# Python-Variable-and-Function-Printer
+# Variable and Function Printer
 
 Ever wanted to...
 1. Print a python variable along with its variable name?
