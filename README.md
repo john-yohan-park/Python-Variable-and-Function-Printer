@@ -1,4 +1,4 @@
-# Variable and Function Printer
+# Smart Printer
 
 Ever wanted to...
 1. Print a variable along with its variable name?
