@@ -13,10 +13,10 @@ Well you've come to the right place :)
 
 
 ### Usable Functions
+`print_var(some_variable)`
+* Prints variable's name and valu
+
 `print_time(func, param 1, param2, ...)`
 * Prints function's output and runtime (in microsec)
-
-`print_var(some_variable)`
-* Prints variable's name and value  
 
 No need to download any third-party packages :)
