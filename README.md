@@ -6,8 +6,8 @@ Ever wanted to...
 Well you've come to the right place :)
 
 INSTRUCTIONS
-1. put this file in the same directory as your working file
-2. import its usable functions: `from my_print import *`
+1. Put this file in the same directory as your working file
+2. Import its usable functions: `from my_print import *`
 
 USABLE FUNCTIONS
 
