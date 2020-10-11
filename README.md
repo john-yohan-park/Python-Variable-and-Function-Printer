@@ -1,6 +1,4 @@
 # Python-Variable-and-Function-Printer
-Prints python variables with their names and functions with their measured runtimes
-
 Ever wanted to... 
 1. print a python variable along with its variable name? OR
 2. Ever wanted to measure the runtime performance of your function implementation? 
