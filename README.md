@@ -8,8 +8,8 @@ Well you've come to the right place :)
 
 
 ### Instructions
-1. Put `smart_print.py` in the same location as your working file
-2. Import its usable functions: `from smart_print import *`
+1. Put `smart_printer.py` in the same location as your working file
+2. Import its usable functions: `from smart_printer import *`
 
 
 ### Usable Functions
