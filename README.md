@@ -16,9 +16,9 @@ Well you've come to the right place :)
 
 ### Usable Functions
 `print_time(func, param 1, param2, ...)`
-    WHAT IT DOES    print function's result and runtime
+* print function's result and runtime
 
 `print_var(some_variable)`
-    WHAT IT DOES    print variable's name and value  
+* print variable's name and value  
 
-No need to download any third-party Python packages :)
+No need to download any third-party packages :)
