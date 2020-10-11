@@ -16,9 +16,9 @@ Well you've come to the right place :)
 
 ### Usable Functions
 `print_time(func, param 1, param2, ...)`
-* print function's result and runtime
+* Prints function's output and runtime (in microseconds)
 
 `print_var(some_variable)`
-* print variable's name and value  
+* Prints variable's name and value  
 
 No need to download any third-party packages :)
