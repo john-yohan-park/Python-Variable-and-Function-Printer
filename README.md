@@ -4,7 +4,7 @@ Ever wanted to...
 1. Print a variable with its variable name?
 2. Measure the runtime performance of your function? 
 
-Well you've come to the right place :)
+You've come to the right place :)
 
 
 ### Instructions
