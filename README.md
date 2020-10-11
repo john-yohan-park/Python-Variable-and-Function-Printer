@@ -5,11 +5,11 @@ Ever wanted to...
 
 Well you've come to the right place :)
 
-INSTRUCTIONS
+<b>INSTRUCTIONS</b>
 1. Put this file in the same directory as your working file
 2. Import its usable functions: `from my_print import *`
 
-USABLE FUNCTIONS
+<b>USABLE FUNCTIONS</b>
 
 `print_time(func, param 1, param2, ...)`
     WHAT IT DOES    print function's result and runtime
