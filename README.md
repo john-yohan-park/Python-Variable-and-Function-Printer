@@ -1,7 +1,7 @@
 # Python-Variable-and-Function-Printer
 
 
-### INTRODUCTION
+### Introduction
 Ever wanted to... 
 1. Print a python variable along with its variable name?
 2. Measure the runtime performance of your function implementation? 
@@ -9,12 +9,12 @@ Ever wanted to...
 Well you've come to the right place :)
 
 
-### INSTRUCTIONS
+### Instructions
 1. Put this file in the same directory as your working file
 2. Import its usable functions: `from my_print import *`
 
 
-### USABLE FUNCTIONS
+### Usable Functions
 `print_time(func, param 1, param2, ...)`
     WHAT IT DOES    print function's result and runtime
 
