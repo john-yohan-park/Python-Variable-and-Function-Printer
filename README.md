@@ -1,9 +1,13 @@
 # Python-Variable-and-Function-Printer
+
+
+<b>INTRODUCTION</b>
 Ever wanted to... 
 1. Print a python variable along with its variable name?
 2. Measure the runtime performance of your function implementation? 
 
 Well you've come to the right place :)
+
 
 <b>INSTRUCTIONS</b>
 1. Put this file in the same directory as your working file
